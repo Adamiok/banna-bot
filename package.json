@@ -2,10 +2,20 @@
   "name": "banna-bot",
   "version": "1.0.0",
   "description": "A discord bot that bans impersonators",
-  "type": "commonjs",
-  "main": "src/index.js",
-  "author": "Adamiok",
+  "keywords": ["discord", "discord-bot", "moderation"],
+  "homepage": "https://github.com/Adamiok/banna-bot",
+  "bugs": "https://github.com/Adamiok/banna-bot/issues",
   "license": "MIT",
+  "author": {
+    "name": "Adamiok",
+    "url": "https://github.com/Adamiok"
+  },
+  "main": "src/index.js",
+  "type": "commonjs",
+  "repository": "github:Adamiok/banna-bot",
+  "scripts": {
+    "deploy": "node deploy/deployCommands.js"
+  },
   "dependencies": {
     "better-sqlite3": "^11.9.1",
     "discord.js": "^14.18.0",

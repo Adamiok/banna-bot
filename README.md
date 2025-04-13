@@ -13,7 +13,7 @@ Protects your discord server from impersonators of moderators and admins. Detect
 7. Clone the repo: `git clone https://github.com/Adamiok/banna-bot.git`
 8. Place the `Client ID` and `Token` into a `.env` file with the same format as `.env.example`
 9. Run: `npm install`
-10. Deploy commands to discord using `node run deploy`
+10. Deploy commands to discord using `npm run deploy`
 11. Start the bot using `node .`
 
 ## Configuration
