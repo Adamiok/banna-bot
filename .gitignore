@@ -1,0 +1,11 @@
+# Secrets
+.env
+
+# Code Editors
+.vscode/
+
+# Build + Run
+run/
+
+# Modules
+node_modules/

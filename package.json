@@ -1,0 +1,18 @@
+{
+  "name": "banna-bot",
+  "version": "1.0.0",
+  "description": "A discord bot that bans impersonators",
+  "type": "commonjs",
+  "main": "src/index.js",
+  "author": "Adamiok",
+  "license": "MIT",
+  "dependencies": {
+    "better-sqlite3": "^11.9.1",
+    "discord.js": "^14.18.0",
+    "dotenv": "^16.4.7",
+    "fastest-levenshtein": "^1.0.16",
+    "pixelmatch": "^7.1.0",
+    "sharp": "^0.34.1",
+    "sharp-gif2": "^0.1.3"
+  }
+}
