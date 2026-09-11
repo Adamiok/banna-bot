@@ -22,7 +22,7 @@
     "dotenv": "^16.4.7",
     "fastest-levenshtein": "^1.0.16",
     "pixelmatch": "^7.1.0",
-    "sharp": "^0.35.3",
+    "sharp": "^0.35.4",
     "sharp-gif2": "^0.1.3"
   }
 }
